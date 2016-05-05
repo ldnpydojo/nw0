@@ -1,0 +1,3 @@
+[submodule "team4/nw4"]
+	path = team4/nw4
+	url = git@github.com:tomviner/nw4.git
